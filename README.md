@@ -8,7 +8,7 @@
 
 Wallet is a fully responsive Saas Landing Page Template, <br />Responsive for all devices, built using Nextjs, Tailwindcss, Typescript and Shadcn.
 
-<a href="https://biz-track.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://wallet-ten-drab.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 

@@ -12,7 +12,7 @@ function FooterSection() {
         <div className="flex flex-col">
           <p className="text-white font-[600] text-[1.5rem]">Wallet</p>
           <div className="gap-[1.88rem] text-white font-[600] text-[1.125rem]  hidden md:flex md:mt-8">
-            <p>© Wallet 2022</p>
+            <p>© Wallet 2024</p>
             <p>Privacy policy</p>
             <p>Cookies policy</p>
             <p>Terms of use</p>
